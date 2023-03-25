@@ -20,25 +20,7 @@
   </url>
   
   <url>
-    <loc>https://wuwawawa.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wuwawawa.github.io/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wuwawawa.github.io/box/animation/index.html</loc>
+    <loc>https://wuwawawa.github.io/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -56,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://wuwawawa.github.io/box/nav/index.html</loc>
+    <loc>https://wuwawawa.github.io/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://wuwawawa.github.io/personal/about/index.html</loc>
+    <loc>https://wuwawawa.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://wuwawawa.github.io/life/movies/index.html</loc>
+    <loc>https://wuwawawa.github.io/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://wuwawawa.github.io/personal/bb/index.html</loc>
+    <loc>https://wuwawawa.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -110,7 +92,25 @@
   </url>
   
   <url>
+    <loc>https://wuwawawa.github.io/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wuwawawa.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuwawawa.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -131,6 +131,15 @@
     <loc>https://wuwawawa.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuwawawa.github.io/posts/2013454d.html</loc>
+    
+    <lastmod>2023-03-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -164,6 +173,20 @@
 
   
   <url>
+    <loc>https://wuwawawa.github.io/tags/%E5%B8%B8%E9%87%8F%E6%B1%A0/</loc>
+    <lastmod>2023-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuwawawa.github.io/tags/JVM/</loc>
+    <lastmod>2023-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wuwawawa.github.io/tags/Markdown/</loc>
     <lastmod>2023-03-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -178,6 +201,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://wuwawawa.github.io/categories/Java/</loc>
+    <lastmod>2023-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://wuwawawa.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
