@@ -6,7 +6,7 @@
   <link href="https://luckylittleboy.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://luckylittleboy.gitee.io/"/>
-  <updated>2023-04-01T09:48:42.216Z</updated>
+  <updated>2023-04-01T13:24:26.530Z</updated>
   <id>https://luckylittleboy.gitee.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://luckylittleboy.gitee.io/posts/943faa28.html"/>
     <id>https://luckylittleboy.gitee.io/posts/943faa28.html</id>
     <published>2023-04-01T09:32:19.000Z</published>
-    <updated>2023-04-01T09:48:42.216Z</updated>
+    <updated>2023-04-01T13:24:26.530Z</updated>
     
     
     <summary type="html">CAS与volatile、原子整数、原子引用、原子累加器Unsafe</summary>
